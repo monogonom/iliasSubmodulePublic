@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/ILIAS-eLearning/ILIAS.git
+	url = https://github.com/monogonom/ILIAS.git
 	branch = release_9
